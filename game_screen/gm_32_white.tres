@@ -1,0 +1,9 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://c80nx8ey64uqx"]
+
+[ext_resource type="FontFile" uid="uid://2uaskf7qicvs" path="res://assets/fonts/gemmie.ttf" id="1_nvlmf"]
+
+[resource]
+font = ExtResource("1_nvlmf")
+font_size = 32
+shadow_size = 2
+shadow_color = Color(0, 0, 0, 0.54902)
